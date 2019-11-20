@@ -1,4 +1,4 @@
-shadowsocks
+sehadowsocks
 ===========
 
 [![PyPI version]][PyPI] [![Build Status]][Travis CI] 
